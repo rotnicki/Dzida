@@ -9,10 +9,10 @@ Kontakt do mnie poniżej
 
 ```mermaid
 graph TD;
-    "Julia Rotnicka"-->"Mikołaj Rotnicki";
-    "Jerzy Rotnicki"-->"Mikołaj Rotnicki";
-    "Julia Rotnicka"-->"Adam Rotnicki";
-    "Jerzy Rotnicki"-->"Adam Rotnicki";
+    Julia_Rotnicka-->Mikołaj_Rotnicki;
+    Jerzy_Rotnicki-->Mikołaj_Rotnicki;
+    Julia_Rotnicka-->Adam_Rotnicki;
+    Jerzy_Rotnicki-->Adam_Rotnicki;
 ```
 
 ## 1. Przeddzidzie dzidy
