@@ -9,6 +9,10 @@ Kontakt do mnie poniżej
 
 ```mermaid
 graph TD;
+    Elżbieta_Kzyżanowska-->Julia_Rotnicka;
+    Tadeusz_Krzyżanowski-->Julia_Rotnicka;
+    Maria_Rotnicka-->Jerzy_Rotnicki;
+    Aleksander_Rotnicki-->Jerzy_Rotnicki;
     Julia_Rotnicka-->Mikołaj_Rotnicki;
     Jerzy_Rotnicki-->Mikołaj_Rotnicki;
     Julia_Rotnicka-->Adam_Rotnicki;
