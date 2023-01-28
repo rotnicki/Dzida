@@ -11,6 +11,8 @@ Kontakt do mnie poniżej
 graph TD;
     Julia-->Mikołaj;
     Jerzy-->Mikołaj;
+    Julia-->Adam;
+    Jerzy-->Adam;
 ```
 
 ## 1. Przeddzidzie dzidy
