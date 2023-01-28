@@ -1,6 +1,8 @@
 # Dzida
 Z czego składa się dzida?
 
+⚔️
+
 ## 1. Przeddzidzie dzidy
 
 Phasellus consequat dignissim justo sed consectetur. Quisque urna ante, rhoncus quis mi id, auctor rhoncus velit. Maecenas velit nunc, tristique sed gravida at, lacinia non dolor. Nam blandit ultricies ipsum id dictum. In aliquam urna ultricies hendrerit porttitor. Praesent vel posuere turpis, quis scelerisque turpis. Sed pellentesque, quam luctus volutpat sollicitudin, mi est tristique magna, sed venenatis nulla velit non urna. Integer tempor sapien in dolor faucibus, ac blandit est consectetur. In rhoncus tincidunt lorem, vitae faucibus neque maximus ut. Suspendisse vel purus lectus. Aliquam porta velit vitae purus volutpat, at sagittis purus ultrices. Sed pretium, risus id laoreet venenatis, lectus orci rutrum justo, eget scelerisque velit nibh hendrerit enim. Etiam metus urna, interdum at erat quis, hendrerit vestibulum magna. Aliquam dignissim venenatis imperdiet. Nunc sollicitudin sem a tempus facilisis. Nulla eu rhoncus sapien.
