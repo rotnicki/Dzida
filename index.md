@@ -1,28 +1,6 @@
 # Dzida
 Z czego składa się dzida?
 
-## KOntakt
-
-{% include kontakt.md %}
-
-{% include_relative produkty.md %}
-
-## Graf
-
-```mermaid
-graph TD;
-    Elżbieta_Kzyżanowska-->Julia_Rotnicka;
-    Tadeusz_Krzyżanowski-->Julia_Rotnicka;
-    Maria_Rotnicka-->Jerzy_Rotnicki;
-    Aleksander_Rotnicki-->Jerzy_Rotnicki;
-    Julia_Rotnicka-->Mikołaj_Rotnicki;
-    Jerzy_Rotnicki-->Mikołaj_Rotnicki;
-    Julia_Rotnicka-->Adam_Rotnicki;
-    Jerzy_Rotnicki-->Adam_Rotnicki;
-    Adam_Rotnicki-->Leonard_Rotnicki;
-    Urszula_Rotnicka-->Leonard_Rotnicki;
-```
-
 ## 1. Przeddzidzie dzidy
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac pulvinar ligula, eu convallis quam. Mauris eget tempor nulla, sed viverra diam. Nunc accumsan nulla vel risus suscipit imperdiet. Nunc commodo egestas faucibus. Duis et elementum ipsum. Ut tempus neque ac commodo aliquam. Integer odio nulla, aliquam in lectus at, imperdiet molestie lacus. 
