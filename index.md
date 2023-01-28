@@ -1,6 +1,8 @@
 ---
 title: Dzidka
 description: Opis budowy dzidy
+language: pl
+layout: home
 ---
 
 # Dzida
