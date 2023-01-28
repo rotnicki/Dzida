@@ -1,10 +1,5 @@
----
-title: Dzidka
-description: Opis budowy dzidy
-lang: pl-PL
----
-
-# Dzida.pl
+# Dzida
+Z czego składa się dzida?
 
 ## 1. Przeddzidzie dzidy
 
