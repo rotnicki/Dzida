@@ -3,6 +3,6 @@
 - pizza
 - kbab
 
-[x] Poznań
-[ ] Warszawa
-[x] Wrocław
+- [x] Poznań
+- [ ] Warszawa
+- [x] Wrocław
