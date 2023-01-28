@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Dzida
 Z czego składa się dzida?
 
