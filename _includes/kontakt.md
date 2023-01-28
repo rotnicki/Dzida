@@ -1,7 +1,4 @@
-## Możesz do mnie pisac na
+## Aktualnie przebywam w
 
-E-mail: rotnicki@example.com
-
-Twitter: rotnicki
-
-Instagram: rotnicki
+- [ ] Poznań
+- [x] Świnoujście
