@@ -1,10 +1,10 @@
 ---
 title: Dzidka
 description: Opis budowy dzidy
-lang: pl
+lang: pl-PL
 ---
 
-# Dzida-da
+# Dzida.pl
 
 ## 1. Przeddzidzie dzidy
 
