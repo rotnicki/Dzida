@@ -1,4 +1,5 @@
 ---
+title: Jedzonko
 picie: cola
 jedzenie: pizza
 ---
