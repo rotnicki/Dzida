@@ -5,7 +5,7 @@ language: pl
 layout: home
 ---
 
-# Dzida
+# Dzida-da
 
 ## 1. Przeddzidzie dzidy
 
