@@ -1,5 +1,2 @@
 title: Dzidkowo
-remote_theme: mmistakes/mm-github-pages-starter
-
-plugins:
-  - jekyll-remote-theme
+remote_theme: mmistakes/minimal-mistakes 
