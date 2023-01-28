@@ -5,6 +5,16 @@ Kontakt do mnie poniżej
 
 {% include kontakt.md %}
 
+## Graf
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 ## 1. Przeddzidzie dzidy
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac pulvinar ligula, eu convallis quam. Mauris eget tempor nulla, sed viverra diam. Nunc accumsan nulla vel risus suscipit imperdiet. Nunc commodo egestas faucibus. Duis et elementum ipsum. Ut tempus neque ac commodo aliquam. Integer odio nulla, aliquam in lectus at, imperdiet molestie lacus. 
