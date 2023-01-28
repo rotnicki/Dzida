@@ -1,11 +1,8 @@
----
-title: Jedzonko
-picie: cola
-jedzenie: pizza
----
+## Produkty
 
-# Jadło
+- pizza
+- kbab
 
-{{ page.picie }}
-
-{{ page.jedzenie }}
+[x] Poznań
+[ ] Warszawa
+[x] Wrocław
