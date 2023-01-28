@@ -9,10 +9,8 @@ Kontakt do mnie poniżej
 
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    Julia-->Mikołaj;
+    Jerzy-->Mikołaj;
 ```
 
 ## 1. Przeddzidzie dzidy
