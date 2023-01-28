@@ -1,3 +1,2 @@
 title: Dzidkowo
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-lang: pl
+remote_theme: "mmistakes/mm-github-pages-starter"
