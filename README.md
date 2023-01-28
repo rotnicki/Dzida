@@ -1,4 +1,4 @@
-# Dzida
+# strona
 Budowa dzidy
 
 ## 1. Przeddzidzie dzidy
