@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Dzida
+# Dzida jaka jest...
 Z czego składa się dzida?
 
 ## 1. Przeddzidzie dzidy
