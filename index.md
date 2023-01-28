@@ -9,9 +9,9 @@ Kontakt do mnie poniżej
 
 ```mermaid
 graph TD;
-    "A. Julia Rotnicka"-->"Mikołaj Rotnicki";
+    "Julia Rotnicka"-->"Mikołaj Rotnicki";
     "Jerzy Rotnicki"-->"Mikołaj Rotnicki";
-    "A. Julia Rotnicka"-->"Adam Rotnicki";
+    "Julia Rotnicka"-->"Adam Rotnicki";
     "Jerzy Rotnicki"-->"Adam Rotnicki";
 ```
 
