@@ -1,3 +1,7 @@
+---
+title: strona
+---
+
 # Strona
 Budowa dzidy
 
