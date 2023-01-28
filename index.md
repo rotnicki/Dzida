@@ -13,6 +13,8 @@ graph TD;
     Jerzy_Rotnicki-->Mikołaj_Rotnicki;
     Julia_Rotnicka-->Adam_Rotnicki;
     Jerzy_Rotnicki-->Adam_Rotnicki;
+    Adam_Rotnicki-->Leonard_Rotnicki;
+    Urszula_Rotnicka-->Leonard_Rotnicki;
 ```
 
 ## 1. Przeddzidzie dzidy
