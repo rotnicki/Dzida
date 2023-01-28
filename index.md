@@ -1,5 +1,5 @@
 ---
-title: strona
+title: Dzidka
 description: Opis budowy dzidy
 ---
 
