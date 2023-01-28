@@ -1,2 +1,2 @@
-# strona o dzidzie
-Zbuduj dzidę
+# Dzida
+Opis budowy dzidy
