@@ -1,5 +1,6 @@
 ---
 title: strona
+description: Opis budowy dzidy
 ---
 
 # Strona
