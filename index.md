@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # Dzida
 Z czego składa się dzida?
 
