@@ -1,9 +1,11 @@
 # Dzida
 Z czego składa się dzida?
 
-Kontakt do mnie poniżej
+## KOntakt
 
 {% include kontakt.md %}
+
+{% include_relative produkty.md %}
 
 ## Graf
 
