@@ -3,8 +3,7 @@ title: strona
 description: Opis budowy dzidy
 ---
 
-# Strona
-Budowa dzidy
+# Dzida
 
 ## 1. Przeddzidzie dzidy
 
