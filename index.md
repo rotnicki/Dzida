@@ -1,11 +1,7 @@
----
-layout: default
----
-
 # Dzida
 Z czego składa się dzida?
 
-Kontakt do mnie
+Kontakt do mnie poniżej
 
 {% include kontakt.md %}
 
