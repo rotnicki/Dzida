@@ -8,6 +8,7 @@ title: Dzida
 Stronki
 
 {% for page in site.pages %}
-    {% %}
-    {{ page.content }}
+    {% if page.path contains "docs" %}
+        {{ page.content }}
+    {% enfif %}
 {% endfor %}
