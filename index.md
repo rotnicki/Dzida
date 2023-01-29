@@ -2,4 +2,8 @@
 
 Strony???
 
-{{ site.pages | where: page.dir contains docs }}
+{% for page in site.pages %}
+    {% if page.path contains 'docs' %}
+        {{ page.content }}
+    {% endif %}
+{% endfor %}
