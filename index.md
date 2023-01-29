@@ -1,5 +1,5 @@
 # Dzida
 
-Strony?
+Strony???
 
-{{ site.pages | where: page.dir contains "docs" }}
+{{ site.pages | where: page.dir contains docs }}
