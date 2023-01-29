@@ -1,5 +1,5 @@
 ---
-title: Wzmianka 1
+title: Wzmianeczka 1
 ---
 
 # Wzmianeczka 1
