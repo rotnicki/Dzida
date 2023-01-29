@@ -1,6 +1,6 @@
-# Treść stron
+# Treści
 
 {% assign pages = site.pages %}
 {% for page in pages %}
-    {{page.content}}
+    {{ content }}
 {% endfor %}
