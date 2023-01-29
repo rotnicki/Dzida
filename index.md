@@ -1,6 +1,5 @@
 # Dzida
 
 {% for page in site.pages %}
-    {{ page.title }}
-    {{ page.url }}
+    {{ page.content }}
 {% endfor %}
