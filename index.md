@@ -8,5 +8,6 @@ title: Dzida
 Stronki
 
 {% for page in site.pages %}
-    {{ page.path }}
+    {% %}
+    {{ page.content }}
 {% endfor %}
