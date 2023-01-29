@@ -2,4 +2,4 @@
 
 Strony?
 
-{{ site.pages.title }}
+{{ site.pages | where: page.dir contains "docs" }}
