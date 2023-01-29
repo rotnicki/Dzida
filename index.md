@@ -2,4 +2,4 @@
 
 Z folderka:
 
-{% include_relative /docs/*.md %}
+{% include_relative /docs/wstawka.md %}
