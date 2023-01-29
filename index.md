@@ -1,4 +1,4 @@
-# Lista
+# Treść stron
 
 {% assign pages = site.pages %}
 {% for page in pages %}
