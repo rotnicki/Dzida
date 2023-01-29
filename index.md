@@ -1,3 +1,5 @@
-# Dzida
+# Dzida-ta
 
-    {% include_relative /docs/*.md %}
+Z folderka:
+
+{% include_relative /docs/*.md %}
