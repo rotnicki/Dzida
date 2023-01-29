@@ -1,9 +1,9 @@
 # Dzida
 
-Strony???
+Strony
 
 {% for page in site.pages %}
     {% if page.path contains 'docs' %}
-        {{ page.content }}
+        {{ page.title }}
     {% endif %}
 {% endfor %}
