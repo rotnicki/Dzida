@@ -1,6 +1,11 @@
+---
+loyout: default
+title: Dzida
+---
+
 # Dzida
 
-Strony
+Stronki
 
 {% for page in site.pages %}
     {{ page.path }}
