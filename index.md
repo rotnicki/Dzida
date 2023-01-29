@@ -1,9 +1,5 @@
 # Dzida
 
-**Początek wstawiania z folderu docs**
+Strony?
 
-{% include_relative /docs/wstawka1.md %}
-
-{% include_relative /docs/wstawka2.md %}
-
-**Koniec wstawiania z folderu docs**
+{{ site.pages }}
