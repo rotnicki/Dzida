@@ -2,6 +2,9 @@
 layout: default
 ---
 
-# Witaj dzido!
+# Lista
 
-Opowiemy sobie coś o dzidzie
+{% assign pages = site.pages %}
+{% for page in pages %}
+    {{page.content}}
+{% endfor %}
