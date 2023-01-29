@@ -1,5 +1,6 @@
 # Strony
 
 {% for page in site.pages %}
-    <a href="{{ page.url }}">{{ page.title }}</a>
+    ## {{ page.title }}
+    ### {{ page.url }}
 {% endfor %}
