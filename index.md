@@ -2,4 +2,4 @@
 
 Strony?
 
-{{ site.pages }}
+{{ site.pages.title }}
