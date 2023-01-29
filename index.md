@@ -4,6 +4,6 @@ Strony???
 
 {% for page in site.pages %}
     {% if page.path contains 'docs' %}
-        {{ page.path }}
+       * {{ page.path }}
     {% endif %}
 {% endfor %}
