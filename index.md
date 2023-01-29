@@ -3,7 +3,7 @@
 Strony???
 
 {% for page in site.pages %}
-    {% if page.dir contains 'docs' %}
-        {% include_relative {{ page.path }} %}
+    {% if page.path contains 'docs' %}
+        {{ page.content }}
     {% endif %}
 {% endfor %}
