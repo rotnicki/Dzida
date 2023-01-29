@@ -1,6 +1,5 @@
-# Treści
+# Strony
 
-{% assign pages = site.pages %}
-{% for page in pages %}
-    {{ content }}
+{% for page in site.pages %}
+    <a href="{{ page.url }}">{{ page.title }}</a>
 {% endfor %}
