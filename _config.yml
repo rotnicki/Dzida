@@ -1,11 +1,1 @@
-title: Raport dostępności
-description: strony internetowej - example.com
-remote_theme: just-the-docs/just-the-docs
 lang: pl
-color_scheme: dark
-
-# Back to top link
-back_to_top: true
-back_to_top_text: "Przewiń na górę strony"
-
-footer_content: "Copyright &copy; 2023 by Mikołaj Rotnicki"
