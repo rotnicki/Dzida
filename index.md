@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Lista
 
 {% assign pages = site.pages %}
