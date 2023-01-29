@@ -1,8 +1,7 @@
 ---
 layout: default
-nav_order: 1
 ---
 
-# Witaj w Dzidkowie
+# Witaj dzido!
 
-Dzień dobry wszyskim!
+Opowiemy sobie coś o dzidzie
