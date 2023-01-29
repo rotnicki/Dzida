@@ -1,5 +1,3 @@
 # Dzida
 
-{% for page in site.pages %}
-    {{ page.content }}
-{% endfor %}
+    {% include_relative /docs/*.md %}
