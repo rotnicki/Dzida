@@ -1,8 +1,3 @@
----
-layout: default
-title: Dzida
----
-
 # Dzida jaka jest...
 Z czego składa się dzida?
 
